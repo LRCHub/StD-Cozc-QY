@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "茜色",
+  "base_artist": "Cidergirl",
+  "createdAt": "2026-03-27T06:34:14.271702Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "茜色",
+      "artist": "KEYTALK",
+      "has_synced": false,
+      "path": "select/01_茜色_KEYTALK.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "茜色 hometown",
+      "artist": "片桐優姫 (釘宮理恵)",
+      "has_synced": false,
+      "path": "select/02_茜色_hometown_片桐優姫_(釘宮理恵).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "茜色",
+      "artist": "サイダーガール",
+      "has_synced": false,
+      "path": "select/pl_01_茜色_サイダーガール.txt"
+    }
+  ]
+}
